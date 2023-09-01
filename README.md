@@ -36,7 +36,7 @@ Please consider citing our work if you find our code/paper is useful to your wor
 	title     = {Competitive online strategy based on improved exponential gradient expert and aggregating method},
 	author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Zhang, Jianliang},
 	journal   = {Computational Economics},
-  pages     = {1--26},
+        pages     = {1--26},
 	doi       = {10.1007/s10614-023-10430-2},
 	year      = {2023},
 	publisher = {Springer}
